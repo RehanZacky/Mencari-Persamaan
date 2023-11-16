@@ -3,7 +3,7 @@ Carilah solusi dua persamaan berikut
 1. 3 + x^3 - x = 4
 2. 2x - 4 = 8
 
-Solusi :
+# Solusi
 
 1. Untuk mencari solusi persamaan non-linear 3 + x^3 - x = 4 kita dapat
    menggunakan metode iteratif seperti metode Newton-Raphson. Metode ini
